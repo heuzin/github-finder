@@ -35,4 +35,4 @@ $ npm start
 
 ## Screenshot
 
-![GitHub Logo](/src/assets/github-finder.png)
+![GitHub Logo](/src/github-finder.png)
